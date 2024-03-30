@@ -31,7 +31,7 @@ git clone https://github.com/HassanAbdirahin/Shopping-Cart
 3. **Run the development server:**
    npm run dev
 
-This will start the development server and open the application in your default web browser. You can view the application at `http://localhost:3000`.
+This will start the development server and open the application in your default web browser. You can view the application at `http://localhost:5173/`.
 
 ## Usage
 
